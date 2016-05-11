@@ -1,6 +1,8 @@
 h1 {
 	color: red;
 	text-align:center;
+	font-weight:bold;
+	font-size: 65px;
 }
 body {
 	text-align: center;
@@ -8,8 +10,4 @@ body {
 	margin-left: auto;
 	margin-right: auto;
 	background-image: url("http://www.pageresource.com/wallpapers/wallpaper/fantasy-dragon-dragons_1631665.jpg")
-}
-span.title {
-	font-size: 56px;
-	font-weight: bold;
 }
