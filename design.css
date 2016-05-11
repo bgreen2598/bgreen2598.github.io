@@ -16,8 +16,9 @@ body {
 	width: 800px;
 	margin-left: auto;
 	margin-right: auto;
-	background-image: url("https://wallpaperscraft.com/image/skulls_neon_color_white_dark_43496_1366x768.jpg")
-}
+	background-image: url("https://wallpaperscraft.com/image/skulls_neon_color_white_dark_43496_1366x768.jpg");
+	background-attachment: fixed;
+	}
 span.line{
 	color:black;
 }
