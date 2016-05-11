@@ -9,7 +9,7 @@ body {
 	margin-right: auto;
 	background-image: url("http://www.pageresource.com/wallpapers/wallpaper/fantasy-dragon-dragons_1631665.jpg")
 }
-.title {
+span.title {
 	font-size: 56px;
 	font-weight: bold;
 }
