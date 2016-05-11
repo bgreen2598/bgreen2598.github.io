@@ -4,5 +4,5 @@ h1 {
 body {
 	text-align: center;
 	width: 800px;
-	background-image: "http://www.pageresource.com/wallpapers/wallpaper/fantasy-dragon-dragons_1631665.jpg";
+	background-image: url (http://www.pageresource.com/wallpapers/wallpaper/fantasy-dragon-dragons_1631665.jpg);
 }
