@@ -28,7 +28,9 @@ p {
 }
 a:link {
 	color: red;
-}
+	font-weight: bold;
+	}
 a:visited {
 	color: white;
+	font-weight:bold;
 }
