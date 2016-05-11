@@ -26,3 +26,9 @@ p {
 	color:yellow;
 	
 }
+a:link {
+	color: red;
+}
+a:visited {
+	color: white;
+}
