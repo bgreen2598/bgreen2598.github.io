@@ -1,0 +1,25 @@
+---
+---
+<!DOCTYPE html>
+<html>
+<head>
+<title> {{page.title}} </title>
+<link rel="stylesheet" href="movie.css">
+<link href='https://fonts.googleapis.com/css?family=Crafty+Girls' rel='stylesheet' type='text/css'>
+<meta name= "author" content= "Benjamin Green">
+<meta name= "description" content= "Information about me.">
+<meta property= "og:title" content= "My Website">
+<meta property= "og:type" content= "text">
+<meta property= "og:description" content= "Information about me."> 
+</head>
+<body>
+
+
+
+<div class="main" style="text-align:center; color:goldenrod; background-color: black;font-family: 'Crafty Girls', cursive; width: 800px; margin-left:auto; margin-right:auto; ">
+<h1 style="color:lawngreen; text-align:center; font-family: 'Crafty Girls', cursive;"> {{ page.title }}</h1>
+<p style="color: lawngreen; text-align; font-size: 20px; text-align:center;background-color:black"> {{site.time | date_to_string}}</p>
+<p style="color: lawngreen; text-align; font-size: 20px; text-align:center;background-color:black"> {{page.author}}</p>
+{{page.content}}
+</div>
+</body>
